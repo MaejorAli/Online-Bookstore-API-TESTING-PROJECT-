@@ -11,9 +11,10 @@ jobs:
       - checkout
       - node/install-packages:
           pkg-manager: npm
+      - run: npm install    
       - run:
           name: Run tests
-          command: npm test --passWithNoTests
+          command: npm run test 
   deploy:
     # This is an example deploy job, not actually used by the workflow
     docker:
