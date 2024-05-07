@@ -1,0 +1,6 @@
+{
+  "/users/:userId/cart/": "/cart",
+  "/users/:userId/checkout": "/orders",
+  "/users/login": "/login"
+  
+}

@@ -1,0 +1,439 @@
+{
+  "users": [
+    {
+      "email": "user@example.com",
+      "password": "$2a$10$aHL6ZP/gSHK7y2U40nx.gOLugMvoK7ubdrs5qrbeMD3olFEjFcllK",
+      "id": 1,
+      "createdAt": "2024-04-20T12:00:00Z"
+    },
+    {
+      "email": "djabo@example.com",
+      "password": "$2a$10$qX6kGWQXsQ.GGIEI/qyKgusV8Or9MgvbF/e5bflAF99NC6NYQUzaC",
+      "id": 2,
+      "createdAt": "2024-04-20T12:00:00Z"
+    },
+    {
+      "email": "test@example.com",
+      "password": "$2a$10$/yU43cXUn/dGt56FRAmYOu/9aN2w3wKl.L6wa8UjeahHLXyVRijme",
+      "username": "test_user",
+      "id": 3
+    },
+    {
+      "email": "Ahmed_Nader@hotmail.com",
+      "password": "$2a$10$qJ169sD7s.2rVUAkJt3AzOrOtS7dTPGq1woXX3x.NyVxWABwCiwEy",
+      "username": "test_user",
+      "id": 4
+    },
+    {
+      "email": "djabjo@example.com",
+      "password": "$2a$10$XKxNJPA0b.PB.3y7rVdGD.TC7gZlw5nZx1YLvl28QbJP9ugqbu9mG",
+      "username": "test_user",
+      "id": 5
+    },
+    {
+      "email": "Gregorio_Stracke18@hotmail.com",
+      "password": "$2a$10$YBMewFGSZl/irppGe2fpOOKRLitUJgzWXnIXeBZr./R3sl6jZU59i",
+      "username": "test_user",
+      "id": 6
+    },
+    {
+      "email": "Ezequiel32@gmail.com",
+      "password": "$2a$10$h2VKOY5JCZJjQAr6TLRPLOVjifWykHKpZncZ6ABSZXqmWauJMBA6S",
+      "username": "test_user",
+      "id": 7
+    },
+    {
+      "email": "Colin63@yahoo.com",
+      "password": "$2a$10$I63Ul06xJHkIWunFDu6oG.zYhf7Ei761sEpYO1ASbPAsSEMiVqSX.",
+      "username": "test_user",
+      "id": 8
+    },
+    {
+      "email": "Adolph19@hotmail.com",
+      "password": "$2a$10$9WxKLwC8FOGg6VHclIJ6xulynPD6gh2R59K45iR4ugOlY50wLhaEy",
+      "username": "test_user",
+      "id": 9
+    },
+    {
+      "email": "Dorothy_Dicki@hotmail.com",
+      "password": "$2a$10$k6ll84iYcno8.SJlwmuE6u1reA78njVBpcLA5HSPVAp3PWauj9vUi",
+      "username": "test_user",
+      "id": 10
+    },
+    {
+      "email": "Krystel_Douglas@hotmail.com",
+      "password": "$2a$10$bEY.pNLu9NsOUidjZ1WTquvtEnrhWbqE50D0sV3OqfLSRY.3ZxbFa",
+      "username": "test_user",
+      "id": 11
+    },
+    {
+      "email": "August87@yahoo.com",
+      "password": "$2a$10$47AZJW2ynxNh7ZjIyYoy8O3ph9OWN7QLy.4PkPnF5WgBUpOli6Qei",
+      "username": "test_user",
+      "id": 12
+    },
+    {
+      "email": "Maritza72@yahoo.com",
+      "password": "$2a$10$4Tt1FoahufUjO9KdCzw5wOJ6o8KbRVBCLPi2I8lM3eO..wlM9nwq.",
+      "username": "test_user",
+      "id": 13
+    },
+    {
+      "email": "Timothy18@gmail.com",
+      "password": "$2a$10$6ccfk.pWrDwzppfUwOSlMe7htY0Jx4z2D.XRHKi6ZFUP3UACvkW9W",
+      "username": "test_user",
+      "id": 14
+    },
+    {
+      "email": "Jay76@gmail.com",
+      "password": "$2a$10$YmH6zsqF0b9zbniM7dRiqu9JtNxSIqzTec3MqlR9cNYLEx6wRcdwm",
+      "username": "test_user",
+      "id": 15
+    },
+    {
+      "email": "Devin32@yahoo.com",
+      "password": "$2a$10$1.vuE.Mq2D37T0AA6jFw4eTdyPYtizNfA/5gIpnkzMelPW8SD98Hu",
+      "username": "test_user",
+      "id": 16
+    },
+    {
+      "email": "Mekhi_Huels81@hotmail.com",
+      "password": "$2a$10$1I1lt7f/aZ7EW6F52lrBxugcANyv8tUcLZnx/JCUwx2N1TXgJfYem",
+      "username": "test_user",
+      "id": 17
+    },
+    {
+      "email": "Tyrese.Prosacco26@yahoo.com",
+      "password": "$2a$10$TlkEXneLeZA36jzRj78Yr.goVV0Khx3ocnQDgoXREKe.r07gRRQo.",
+      "username": "test_user",
+      "id": 18
+    },
+    {
+      "email": "Kianna42@yahoo.com",
+      "password": "$2a$10$4sg8eDfY73E/l1dOBrhNhe9406B1Ee8K.CoBQsfVlrsFKgAPnkVgC",
+      "username": "test_user",
+      "id": 19
+    },
+    {
+      "email": "Logan_Spinka-Lynch84@gmail.com",
+      "password": "$2a$10$O94lHsrcVLhLLQg/lwvdLeKjXuw//vgjHZHgS1JWfmnn6GneOZRZu",
+      "username": "test_user",
+      "id": 20
+    },
+    {
+      "email": "Abe60@gmail.com",
+      "password": "$2a$10$C6RJKhJmvK9A9aM5h7XpMufeDDEv6GGVn4pOpP0jL3lDlyNC0wuci",
+      "username": "test_user",
+      "id": 21
+    },
+    {
+      "email": "Lelia22@hotmail.com",
+      "password": "$2a$10$4/bpKZ7.chB5BClmOp6PLuqqqegTn0AMShB4mIyZmUQK/Y2BMs1aG",
+      "username": "test_user",
+      "id": 22
+    },
+    {
+      "email": "Dave_Parker-Smith2@hotmail.com",
+      "password": "$2a$10$.woEVxgR30lx.6iV.StR2uOWPgCUtUjUwwColn0CRjr5qY0i/l9Ha",
+      "username": "test_user",
+      "id": 23
+    },
+    {
+      "email": "Cordelia77@gmail.com",
+      "password": "$2a$10$ts52j6w7..aXlwY98.LmlOJEpZFKDwDu.owTxs86e9T4rAKOxbWWC",
+      "username": "test_user",
+      "id": 24
+    },
+    {
+      "email": "Reina.Zboncak-Jaskolski@yahoo.com",
+      "password": "$2a$10$X028gw9E0t6/m6YE5wGG.O0swiRfFrFf.ZEQOW4GB9ZQmgkEVS4sS",
+      "username": "test_user",
+      "id": 25
+    },
+    {
+      "email": "Constantin12@hotmail.com",
+      "password": "$2a$10$pzBULYP5UcYE.aIG2B9rRuoM5vjGENWBrRnnKX3uqhg.G0zQ.pDMa",
+      "username": "test_user",
+      "id": 26
+    },
+    {
+      "email": "Rose_Walsh65@gmail.com",
+      "password": "$2a$10$abhXETlrzJ4NKt.KCMh0X.KY09qs3GmE5OrnN0XMRmbTdDJP8senK",
+      "username": "test_user",
+      "id": 27
+    },
+    {
+      "email": "Izabella_Dach@gmail.com",
+      "password": "$2a$10$IB665sFeXCeP61lxNXhF2.3rfJ6XW9/fJIy7CTDoxfjkpLfH1wnsy",
+      "username": "test_user",
+      "id": 28
+    },
+    {
+      "email": "Reagan49@yahoo.com",
+      "password": "$2a$10$gOAc9c7qGEtVKN7rMjOfxuS90VYlzomNLnRJUUblG5J3cjdKfjbH.",
+      "username": "test_user",
+      "id": 29
+    },
+    {
+      "email": "Demetris_Weber25@hotmail.com",
+      "password": "$2a$10$57ovm9LHz0tbqcLeHdY1ruQpUEGYW1.J8bxcFWDo5wjEKOZFGcjyy",
+      "username": "test_user",
+      "id": 30
+    },
+    {
+      "email": "Caleb.Greenholt8@yahoo.com",
+      "password": "$2a$10$d9iLrUnGITA9MaTpIf4lmu1nQvwLosp7.6x1vogBct3.r1mP8Zkey",
+      "username": "test_user",
+      "id": 31
+    },
+    {
+      "email": "Jessyca83@gmail.com",
+      "password": "$2a$10$0hE4N20ZDhPbKoigIFaXWu6YJ2il1zHmRXf4ohzUGewe5TmOrSQwO",
+      "username": "test_user",
+      "id": 32
+    },
+    {
+      "email": "Anita.Schmeler@gmail.com",
+      "password": "$2a$10$GBLiYXgxBWIR4hxSVVJdZ.VYpl9xcAZdTt1N.k0TLEEgMi3JzaBGq",
+      "username": "Mateo.Boyle",
+      "id": 33
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Book 1",
+      "author": "Author 1",
+      "price": 10.99
+    },
+    {
+      "id": 2,
+      "title": "Book 2",
+      "author": "Author 2",
+      "price": 12.99
+    },
+    {
+      "id": 3,
+      "title": "Book 3",
+      "author": "Author 3",
+      "price": 15.99
+    },
+    {
+      "id": 4,
+      "title": "Book 4",
+      "author": "Author 4",
+      "price": 10.99
+    },
+    {
+      "id": 5,
+      "title": "Book 5",
+      "author": "Author 5",
+      "price": 10.99
+    }
+  ],
+  "cart": [
+    {
+      "bookId": 3,
+      "quantity": 1,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "bookId": 2,
+      "quantity": 1,
+      "userId": "2",
+      "id": 3
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 4
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 10
+    },
+    {
+      "bookId": 20,
+      "quantity": 1,
+      "userId": "1",
+      "id": 11
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 12
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 13
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 15
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 18
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 19
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 20
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 21
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 22
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 23
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 24
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 25
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 26
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 27
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "userId": "1",
+      "id": 28
+    },
+    {
+      "bookId": 1,
+      "quantity": 1,
+      "id": 29
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "books": [
+        1,
+        2
+      ],
+      "totalPrice": 23.98,
+      "createdAt": "2024-04-22T08:00:00Z"
+    },
+    {
+      "books": [
+        1,
+        2
+      ],
+      "totalPrice": 23.98,
+      "createdAt": "2024-04-22T08:00:00Z",
+      "id": 2
+    },
+    {
+      "books": [
+        1,
+        2
+      ],
+      "totalPrice": 23.98,
+      "createdAt": "2024-04-22T08:00:00Z",
+      "id": 3
+    },
+    {
+      "books": [
+        1,
+        2
+      ],
+      "totalPrice": 23.98,
+      "createdAt": "2024-04-22T08:00:00Z",
+      "id": 4
+    },
+    {
+      "books": [
+        1,
+        2
+      ],
+      "totalPrice": "23.98",
+      "createdAt": "2024-04-22T08:00:00Z",
+      "id": 39
+    },
+    {
+      "books": [
+        1,
+        2
+      ],
+      "totalPrice": "23.98",
+      "createdAt": "2024-04-22T08:00:00Z",
+      "id": 40
+    },
+    {
+      "books": [
+        1,
+        2
+      ],
+      "totalPrice": "23.98",
+      "createdAt": "2024-04-22T08:00:00Z",
+      "id": 41
+    },
+    {
+      "books": [
+        1,
+        2
+      ],
+      "totalPrice": "23.98",
+      "createdAt": "2024-04-22T08:00:00Z",
+      "id": 42
+    },
+    {
+      "books": [
+        1,
+        2
+      ],
+      "totalPrice": "23.98",
+      "createdAt": "2024-04-22T08:00:00Z",
+      "id": 43
+    }
+  ]
+}

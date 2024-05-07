@@ -1,0 +1,22 @@
+{
+  "type":"module",
+  "name":"api-testing-project",
+  "version":"1.0.0",
+  "description":"",
+  "main":"index.js",
+  "directories":{
+    "test":"tests"
+  },
+  "scripts":{
+  "test":"mocha tests/integration/*.js"
+  },
+  "keywords":[],
+  "author":"",
+  "license":"ISC",
+  "dependencies":{"json-server":"^0.17.4",
+  "json-server-auth":"^2.1.0"},
+  "devDependencies":{"@faker-js/faker":"^8.4.1",
+  "chai":"^5.1.0",
+  "chai-http":"^4.4.0",
+  "mocha":"^10.4.0"
+  }}
