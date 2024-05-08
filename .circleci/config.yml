@@ -12,7 +12,10 @@ jobs:
       - node/install-packages:
           pkg-manager: npm
       - run: npm install 
-      - run: npm run start   
+      - run: 
+           name: Start Json-server
+           command: |
+              json-server-auth mock-apis/db.json --routes mock-apis/route.json --watch   
       - run:
           name: Run tests
           command: npm run test 
