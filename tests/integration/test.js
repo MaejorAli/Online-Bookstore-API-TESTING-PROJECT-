@@ -11,7 +11,7 @@ const password = faker.internet.password()
 describe('Integration Tests', () => {
     describe('POST /users/register', () => {
       it('should register a new user', (done) => {
-        chai.request('http://localhost:3000')
+        chai.request('http://localhost:8080')
           .post('/users/register')
           .send({ username: userName, email: randomEmail, password: password })
           .end((err, res) => {

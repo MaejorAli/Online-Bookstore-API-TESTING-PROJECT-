@@ -11,8 +11,7 @@ jobs:
       - checkout
       - node/install-packages:
           pkg-manager: npm
-      - run: npm install   
-      - run:  json-server-auth mock-apis/db.json --routes mock-apis/route.json --watch   
+      - run: npm install      
       - run:
           name: Run tests
           command: npm run test 
