@@ -5,9 +5,10 @@
   "description":"",
   "main":"index.js",
   "directories":{
-    "test":"tests"
+    
   },
   "scripts":{
+  "start":"json-server-auth mock-apis/db.json --routes mock-apis/route.json",
   "test":"mocha tests/integration/*.js"
   },
   "keywords":[],
