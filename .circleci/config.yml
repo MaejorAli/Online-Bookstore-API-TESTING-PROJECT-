@@ -19,6 +19,7 @@ jobs:
            name: Start Json-server
            command: |
               json-server-auth mock-apis/db.json --routes mock-apis/route.json 
+           background: true  
       - run:
           name: Run tests
           command: npm run test 
