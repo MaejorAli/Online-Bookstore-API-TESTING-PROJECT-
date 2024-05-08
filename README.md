@@ -106,7 +106,7 @@ Add to Cart: User authentication required.
 Checkout: User authentication required.
 
 To start the JSON server with authentication enabled, run the following command:
-`json-server db.json -m ./node_modules/json-server-auth --routes routes.json`
+`json-server-auth mock-apis/db.json --routes mock-apis/route.json`
 
 
 Replace `db.json` with the name of your JSON database file and routes.json with the name of your `routes` file if necessary.
